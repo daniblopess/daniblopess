@@ -1,0 +1,22 @@
+.Seção1{
+    background-color: aquamarine;
+    width: 400px;
+    height: 100px;
+    padding-top: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Seção2 {
+    background-color: blueviolet;
+    width: 400px;
+    height: 100px;
+    padding-top: 100px;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+section {
+background-color: crimson;
+
+}
